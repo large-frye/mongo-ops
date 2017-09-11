@@ -1,0 +1,19 @@
+{
+  "name": "mongo-ops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:large-frye/mongo-ops.git",
+  "author": "Andrew Frye <a.frye4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.2",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "devDependencies": {
+    "mongoose": "^4.11.6"
+  }
+}
