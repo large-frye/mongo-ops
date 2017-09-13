@@ -1,0 +1,10 @@
+{
+  "dbs": [
+    {
+      "name": "my_name",
+      "host": "my_host",
+      "user": "my_user",
+      "password": "enc(my_pass)"
+    }
+  ]
+}
