@@ -9,7 +9,7 @@
 6 silly lifecycle mongo-ops@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle mongo-ops@1.0.0~start: mongo-ops@1.0.0
 8 verbose lifecycle mongo-ops@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle mongo-ops@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/fryea/Documents/projects/mongo-ops/node_modules/.bin:/usr/local/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/fryea/Downloads/gradle-2.0/bin:/usr/local/go/bin:/Users/fryea/Documents/aws-tools/wp-entdev-cloud-scripts/ec2-scripts/cli-helpers:/usr/local/bin/gradle-2.0/bin:/Users/fryea/Documents/aws-tools/wp-entdev-cloud-scripts/ec2-scripts/cli-helpers:/usr/local/bin/gradle-2.0/bin:/Users/fryea/Documents/aws-tools/wp-entdev-cloud-scripts/ec2-scripts/cli-helpers:/usr/local/bin/gradle-2.0/bin
+9 verbose lifecycle mongo-ops@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/fryea/Documents/projects/mongo-ops/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/fryea/Downloads/gradle-2.0/bin:/usr/local/go/bin:/Users/fryea/Documents/aws-tools/wp-entdev-cloud-scripts/ec2-scripts/cli-helpers:/usr/local/bin/gradle-2.0/bin
 10 verbose lifecycle mongo-ops@1.0.0~start: CWD: /Users/fryea/Documents/projects/mongo-ops
 11 silly lifecycle mongo-ops@1.0.0~start: Args: [ '-c', 'node server.js' ]
 12 silly lifecycle mongo-ops@1.0.0~start: Returned: code: 1  signal: null
